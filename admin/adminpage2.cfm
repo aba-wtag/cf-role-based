@@ -1,0 +1,1 @@
+<cfoutput>admin page2</cfoutput>
